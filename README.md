@@ -1,4 +1,4 @@
-# Hello-World
+# Making your first commit!
 Hello, World. CS members first EVER Github repos. Ever heard of hazing? well this is it..
 
 Welcome to the IEEE: Computer Society!
