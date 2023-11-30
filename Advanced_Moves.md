@@ -1,5 +1,3 @@
-Sure, I can help you modify the lab to include more advanced Git features. Here's a continuation of the workshop guide:
-
 **Step 8: Merge Your Changes**
 
 After your pull request has been reviewed and approved, you can merge your changes into the main branch. Here's how you do it¹²:
