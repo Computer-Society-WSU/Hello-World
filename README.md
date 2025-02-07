@@ -79,7 +79,7 @@ Before you begin, you need to install Git and the GitHub CLI. Follow the instruc
 
 Open your terminal and navigate to the directory where you want to clone the repository. Then, run:
 ```bash
-git clone https://github.com/Computer-Society-EWU/Hello-World.git
+git clone https://github.com/Computer-Society-WSU/Hello-World.git
 ```
 This will create a local copy of the project on your machine.
 
@@ -134,7 +134,7 @@ Replace `your-new-branch-name` with the name of the branch you created earlier.
 
 ## Step 7: Create a Pull Request
 
-1. Go to the [GitHub repository](https://github.com/Computer-Society-EWU/Hello-World).
+1. Go to the [GitHub repository](https://github.com/Computer-Society-WSU/Hello-World).
 2. Switch to your branch.
 3. Click on "Pull Request" and fill in the details.
 4. Submit your pull request!
