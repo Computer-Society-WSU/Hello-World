@@ -143,7 +143,51 @@ Congratulations! 🎉 You've made your first contribution to a GitHub project!
 
 ---
 
-If you get stuck, don't hesitate to ask for help.
+## Step 8: Merge Your Changes
+
+After your pull request has been reviewed and approved, you can merge your changes into the main branch. Follow these steps:
+
+1. Switch to the main branch:
+   ```bash
+   git checkout main
+   ```
+2. Pull the latest updates from the main branch:
+   ```bash
+   git pull origin main
+   ```
+3. Merge your branch into the main branch:
+   ```bash
+   git merge your-new-branch-name
+   ```
+4. Push your changes to the main branch:
+   ```bash
+   git push origin main
+   ```
+
+---
+
+## Step 9: Switch Branches
+
+To switch to another branch, use:
+```bash
+git checkout another-branch-name
+```
+Replace `another-branch-name` with the branch you want to switch to.
+
+---
+
+## Step 10: Advanced Git Features
+
+Explore advanced Git features such as:
+- **Rebasing**: Integrate changes from another branch cleanly.
+- **Cherry-picking**: Apply specific commits from one branch to another.
+- **Handling merge conflicts**: Resolve conflicts when merging branches.
+
+Check the [Git documentation](https://git-scm.com/doc) or other online resources to deepen your understanding.
+
+---
+
+If you get stuck, don't hesitate to ask for help. 
 
 **Bonus AI-generated joke:**
 > Why don’t programmers like nature? It has too many bugs! 🐛
